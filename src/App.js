@@ -3,19 +3,20 @@ import randomColor from 'randomcolor';
 import { useState } from 'react';
 
 function App() {
-  const [color, setColor] = useState('');
+  const [color, setColor] = useState(randomColor());
   return (
     <div>
       <h1>Random-Color-Generator</h1>
       <div
         style={{
-          width: 200,
-          height: 200,
+          width: 250,
+          height: 250,
           margin: '0 auto',
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
           fontSize: 30,
+          backgroundColor: randomColor(),
         }}
       >
         Generated Color: {randomColor()}
