@@ -4,7 +4,7 @@ My tool is straightforward to use.
 
 Just click on the 'Generate'-Button to change the color.
 
-![image](https://user-images.githubusercontent.com/109429979/189959359-3573445d-6e83-49b9-9323-9d4ec6af5d49.png)
+![image](https://user-images.githubusercontent.com/109429979/189959517-70d2333b-6302-4245-a1fe-33dd1f8108c5.png)
 
 Every color is chosen randomly.
 
