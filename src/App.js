@@ -41,14 +41,15 @@ function App() {
       <br />
       <br />
       <br />
+
       <div
         css={[
           css`
-            display: block;
-            box-sizing: border-box;
-            padding: 16px 32px;
-            font-size: 0.75rem;
-            font-weight: 600;
+            // display: block;
+            // box-sizing: border-box;
+            // padding: 16px 32px;
+            // font-size: 0.75rem;
+            // font-weight: 600;
             text-align: center;
           `,
         ]}
