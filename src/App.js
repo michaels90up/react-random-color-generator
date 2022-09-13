@@ -28,6 +28,7 @@ function App() {
           height: 250,
           margin: '0 auto',
           display: 'flex',
+          boxShadow: '5px 5px 8px #888888',
           justifyContent: 'center',
           alignItems: 'center',
           fontSize: 30,
