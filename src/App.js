@@ -1,9 +1,10 @@
 import './App.css';
+/** @jsxImportSource @emotion/react */
+import { css } from '@emotion/react';
 import randomColor from 'randomcolor';
 import { useState } from 'react';
 
 function App() {
-  /* const [color, setColor] = useState(''); */
 
   const [backgroundColor, setBackgroundColor] = useState(randomColor());
 
