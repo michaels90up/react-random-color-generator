@@ -2,7 +2,7 @@
 
 My tool is straightforward to use.
 
-Just vlick on the 'Generate'-Button to change the color.
+Just click on the 'Generate'-Button to change the color.
 
 Every color is chosen randomly.
 
